@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Nothing to tell really.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+The articles in this blog are mostly 'notes' for myself about things im currently working on.
+If it helps someone else - even better.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[shaana.blogs@gmail.com](mailto:shaana.blogs@gmail.com)
